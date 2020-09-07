@@ -1,0 +1,7 @@
+Flask
+gunicorn
+numpy
+opencv-contrib-python-headlesFlask
+gunicorn
+numpy
+opencv-contrib-python-headless
